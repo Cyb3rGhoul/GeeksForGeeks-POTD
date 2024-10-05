@@ -1,3 +1,3 @@
 # GeeksForGeeks POTD's
-Honestly This is just to increase my GFG commits.
+Honestly This is just to increase my Github commits.
 Happy coding :)
