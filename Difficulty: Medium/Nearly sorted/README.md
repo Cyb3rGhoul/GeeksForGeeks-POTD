@@ -6,5 +6,5 @@ Explanation: </strong>The sorted array will be 2 3 5 6 8 9 10</span>
 </pre>
 <pre><span style="font-size: 14pt; font-family: 'andale mono', monospace;"><strong>Input:</strong><span style="color: #1d1c1d; font-variant-ligatures: common-ligatures; white-space: normal; background-color: #f8f8f8;"> arr[]= [1, 4, 5, 2, 3, 6, 7, 8, 9, 10], k = 2</span>
 <strong>Output: </strong>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<br><strong>Explanation: </strong>The sorted array will be 1 2 3 4 5 6 7 8 9 10</span></pre>
-<p><span style="font-size: 18px;">DO NOT use the direct library sort() function for this question.</span></p>
+<p><span style="font-size: 18px;"><strong>Don't </strong>use the inbuilt sort() function for this question.</span></p>
 <p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>6</sup><br>0 ≤ k &lt; arr.size()<br>1 ≤&nbsp;arr<sub>i </sub>≤ 10<sup>6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Google</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sorting</code>&nbsp;<code>Arrays</code>&nbsp;<code>priority-queue</code>&nbsp;
